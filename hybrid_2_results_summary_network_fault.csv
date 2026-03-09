@@ -1,0 +1,23 @@
+,Value
+Avg_STT_Net_Sent_KB,146.667
+Avg_STT_Net_Recv_KB,3.985
+Avg_LLM_Net_Sent_KB,4.152
+Avg_LLM_Net_Recv_KB,2.68
+Avg_STT_Latency,1.605
+Avg_LLM_Latency,2.598
+Avg_E2E_Latency,4.276
+Avg_RTF,1.513
+Avg_CPU_utilization_avg,12.365
+Avg_GPU_compute_utilization,79.685
+Avg_RAM_Used_Avg_MB,12219.732
+Avg_RAM_Used_Peak_MB,12223.045
+Avg_Net_Sent_KB,150.695
+Avg_Net_Recv_KB,5.634
+Total_Files,176.0
+Select_STT_Cloud_%,45.455
+Select_STT_OnDevice (Timeout)_%,38.068
+Select_STT_OnDevice (Late)_%,15.341
+Select_STT_Cloud (Late)_%,1.136
+Select_LLM_Cloud (Quality)_%,50.568
+Select_LLM_OnDevice (Late)_%,48.864
+Select_LLM_Cloud (Late)_%,0.568
